@@ -1,8 +1,12 @@
-My Task Manager aim is to develop a Human-Centric Workflow Task List Manager Wrapper in order to give better usability
-experience to business users. It will provide a user interface based on extjs library and a set of back-end classes
-templates and data format views to translate session beans generated for such classes into front-end understandable JSON
-objects.
-Any BPMS or Workflow engine producer who needs a Human Task List Manager may customize and extend My Task Manager to
-fulfill their needs.
-An example code is placed for Intalio BPMS at http://whatabout.wordpress.com blog.
+My Task Manager aim is to develop a Human-Centric Workflow Task List Manager
+wrapper in order to give better usability experience to business users. It will
+provide a user interface based on extjs library and a set of back-end classes
+templates and data format views to translate session beans generated for such 
+classes into front-end understandable JSON objects.
+Any BPMS or Workflow engine producer who needs a Human Task List Manager may 
+customize and extend My Task Manager to fulfill their needs.
+A first closer example code is placed for Intalio BPMS at 
+http://whatabout.wordpress.com blog 
+
+
 
